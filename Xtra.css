@@ -1,0 +1,69 @@
+/* body{
+    background-image: url('beach.jfif') ;
+    background-size: 100%;
+
+} */
+/* .constainer{
+    left: 0;
+    right: 0;
+    background-color: aqua;
+    text-align: center;
+
+}
+.link{
+    text-decoration: none;
+    color: red;
+    font-size: 70px;
+    padding-right: 20%;
+}
+.logincontainer{
+    margin-left: auto;
+    margin-right: auto;
+    align-content: center;
+    align-items: center;
+    text-align: center;
+    height: 50vh;
+    width: 30%;
+    margin-top: 5%;
+    border-radius: 10%;
+    border: 5px solid ,black;
+    box-shadow: inset -3px -3px rgba(0, 0, 0, 0.5);
+    /* box-shadow: 5px 6px black; */
+ /* background-image: linear-gradient(to right,#d4f1f9,#adc4cb); */
+
+/* .inputlogin{
+    margin-top: 5px;
+    background-color: rgba(0,0, 0, 0.5);
+    border-radius: 5px;
+    color: white;
+    box-shadow: inset -3px -3px rgba(0,0, 0, 0.5);
+
+} */
+/* .inputlogin:focus{
+    background-color: aqua;
+    color: black;
+} */
+/* .logincontainer2{
+    padding-top: 20%;
+}
+.buttonlogin{
+    margin-top: 5px;
+    border-radius: 5px;
+
+} */ 
+.Navlink{
+    text-decoration: none;
+    background-color: aqua;
+}
+.constainer{
+    display: flex;
+    align-items: center;
+    gap: 5%;
+    padding-left: 5%;
+    background-color: blue;
+}
+ .link{
+    font-size:30px ;
+    color: white;
+    text-decoration: none;
+}
